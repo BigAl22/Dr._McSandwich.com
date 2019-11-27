@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    font-family: verdenna;
+    font-size: 300%;
+
+    border: 1px solid powderblue;
+
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+}
+#po1 {
+    color: blue;
+    font-family: verdenna;
+    font-size: 150%;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+}
+
+
+#information {
+<!-- padding is between the text and border -->
+<!-- margin is the space outside of the border -->
+}
