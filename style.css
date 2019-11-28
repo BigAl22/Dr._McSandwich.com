@@ -46,6 +46,14 @@ h1 {
     font-size: 150%;
     text-align: center;
 }
+#credits {
+    color: orange;
+    background-color: blue;
+    font-size: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: black;
+    margin-right: 90%;
+}
 
 
 #information {
