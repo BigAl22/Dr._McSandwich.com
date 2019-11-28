@@ -17,6 +17,13 @@ h1 {
     padding-right: 25%;
     text-align: center;
 }
+#liability {
+    color: lightgray;
+    font-size: 100;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    
+}
 .topimg {
     width: 33%;
     height: auto;
